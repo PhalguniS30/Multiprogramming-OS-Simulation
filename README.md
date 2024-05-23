@@ -16,5 +16,5 @@ Ensure you have GCC (GNU Compiler Collection) installed.
 
 ## Clone the repository:
 
-git clone https://github.com/Kartik-Katkar/Multiprogramming-Operating-System.git
+git clone https://github.com/PhalguniS30/Multiprogramming-OS-Simulation.git
 cd Multiprogramming-Operating-System
