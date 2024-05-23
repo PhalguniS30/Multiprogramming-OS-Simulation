@@ -4,10 +4,14 @@ This repository contains a simulation of a multiprogramming operating system imp
 
 ## Features
 Multiprogramming: The OS supports the execution of multiple programs concurrently.
+
 Job Management: Handles various jobs and processes.
+
 Error Handling: Manages errors such as time limit exceeded, line limit exceeded, etc.
+
 Virtual Memory: Stores data in virtual memory using segmentation.
 Usage
+
 Ensure you have GCC (GNU Compiler Collection) installed.
 
 ## Clone the repository:
